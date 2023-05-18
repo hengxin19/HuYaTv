@@ -1,4 +1,5 @@
 {
-    "version": "1.0.6",
-    "download": "http://github.com"
+    "versionName": "1.0.6",
+    "download": "https://github.com",
+    "versionCode": 6
 }
