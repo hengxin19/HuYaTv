@@ -1,5 +1,6 @@
 # HuYaTv
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
+[![Download](https://img.shields.io/github/v/release/jayjd/huyatv?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/jayjd/huyatv/releases/latest)
 ### 一个第三方虎牙TV客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，所有的内容均来源于虎牙网页端，本人不对内容负责。本人不会收集你的个人信息。
 # QQ反馈交流群
 QQ频道🔗 **[点击加入](https://pd.qq.com/s/ajih400ke)** 
